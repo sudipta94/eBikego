@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265540618212",
+    "project_id": "ebikego-12d3d",
+    "storage_bucket": "ebikego-12d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265540618212:android:81d501aabc15192ebca9f1",
+        "android_client_info": {
+          "package_name": "com.ebikego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265540618212-ini1ouhe0cjlpfnidj5q9u4hhn0db0ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5u1-5v_BbvuY1ejp3KNcm4s9ldoBhdUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265540618212-ini1ouhe0cjlpfnidj5q9u4hhn0db0ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
